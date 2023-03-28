@@ -2,4 +2,9 @@ linia 1
 poprawka HotFix
 linia 2
 linia 3
+<<<<<<< HEAD
 
+=======
+funkcjonaloność w branchu feature
+zakończenie funkcjonalności feature
+>>>>>>> feature
